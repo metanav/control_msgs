@@ -20,7 +20,7 @@ find_package(trajectory_msgs REQUIRED)
 
 set(msg_files
   msg/DynamicJointState.msg
-  msg/GripperCommand.msg
+  msg/GripperCmd.msg
   msg/InterfaceValue.msg
   msg/JointComponentTolerance.msg
   msg/JointControllerState.msg
