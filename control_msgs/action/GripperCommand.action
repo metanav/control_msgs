@@ -1,4 +1,4 @@
-GripperCommand command
+GripperCmd command
 ---
 float64 position  # The current gripper gap size (in meters)
 float64 effort    # The current effort exerted (in Newtons)
